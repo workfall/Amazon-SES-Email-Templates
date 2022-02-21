@@ -2,7 +2,7 @@
 
 In this handson, we will see how we can make use of Node.js and Postman Api to create an Email Template on Amazon SES dashboard and delete an existing template from Amazon SES dashboard. We will also have a look at different scenarios altering the code base as per required.
 
-Steps to follow:
+**Steps to follow:**
 
 1. Clone the repository.
 2. Run 'npm install' to install the required packages.
